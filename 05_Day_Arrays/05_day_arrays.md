@@ -166,7 +166,7 @@ console.log(words)
 
 ### Accessing array items using index
 
-We access each element in an array using their index. An array index starts from 0. The picture below clearly shows the index of each element in the array.
+We access each element in an array using their index. An array index starts from 0. The picture below c\learly shows the index of each element in the array.
 
 ![arr index](../images/array_index.png)
 
